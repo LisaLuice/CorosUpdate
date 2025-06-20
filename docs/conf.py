@@ -7,7 +7,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 html_theme = 'alabaster'
-html_static_path = ['_static'] 
+html_static_path = ['static'] 
 
 def setup(app):
     app.add_js_file("chatbot.js") 
