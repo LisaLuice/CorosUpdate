@@ -14,3 +14,7 @@ html_js_files = [
     'chatbot.js',
 ]
 
+html_meta = {
+    "google-site-verification": "HojYGrilvLTCMn1nlF4jRxkr25mv_YKARAIvBy40OVc"
+}
+
