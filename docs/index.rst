@@ -4,7 +4,7 @@ How the Coros GPS Update Improves Your Outdoor Experiences
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://fitbitgpsupdate.readthedocs.io/en/latest/_images/fitbitupdatenow.png
+.. image:: corosgpsupdate.jpg
    :alt: Coros GPS Update
    :width: 200px
    :align: center
